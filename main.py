@@ -1,3 +1,11 @@
+""" 
+Title: Space Invaders
+Author: Caden Jamason
+Date: 03/02/2022
+Course: Introduction to Computer Programming, 2
+Description: A clone of space invaders
+"""
+
 import random
 import math
 
